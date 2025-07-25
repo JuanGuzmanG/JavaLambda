@@ -34,5 +34,5 @@ El JAR listo para desplegar se genera en `target/credit-calculator-lambda-<versi
 
 ## Resultados
 
-![resultado](/src/main/java/resources/resultado.png)
+![resultado](src/main/resources/resultado.png)
 
